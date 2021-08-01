@@ -2,7 +2,7 @@ export const vacancies = [
   {
     id: 1,
     title: "Backend Node.js developer ",
-    company: "Coder's Gyan",
+    company: "Coder's",
     city: "Moscow",
     description:
       "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Tempora maiores veritatis, iure amet unde quod ducimus architecto corporis iusto temporibus alias debitis! Harum nobis error aliquid eveniet commodi? Expedita, perferendis.",
