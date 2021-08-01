@@ -1,7 +1,7 @@
 export const vacancies = [
   {
     id: 1,
-    title: "Backend Node.js developer (middle)",
+    title: "Backend Node.js developer ",
     company: "Coder's Gyan",
     city: "Moscow",
     description:

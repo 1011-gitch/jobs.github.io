@@ -8,7 +8,7 @@ const navigation = () => {
           <Link className="navbar-item" to="/">
             JOBS
           </Link>
-          <a
+          <Link
             role="button"
             className="navbar-burger"
             aria-label="menu"
@@ -18,7 +18,7 @@ const navigation = () => {
             <span aria-hidden="true"></span>
             <span aria-hidden="true"></span>
             <span aria-hidden="true"></span>
-          </a>
+          </Link>
           <div id="navbarBasicExample" className="navbar-menu">
             <div className="navbar-start">
               <Link className="navbar-item" to="/">
@@ -33,10 +33,10 @@ const navigation = () => {
         <div className="navbar-end">
           <div className="navbar-item">
             <div className="buttons">
-              <a className="button is-primary">
+              <Link className="button is-primary">
                 <strong>Sign up</strong>
-              </a>
-              <a classNameName="button is-light">Log in</a>
+              </Link>
+              <Link classNameName="button is-light">Log in</Link>
             </div>
           </div>
         </div>
